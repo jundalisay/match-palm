@@ -8,18 +8,17 @@
 
 ### Presentation: https://www.canva.com/design/DAGUcrWEWrs/fgHVrVhKiuM7qh1WsQyK8A/edit?utm_content=DAGUcrWEWrs&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
 
-### Google Colab: https://colab.research.google.com/drive/1X6jxnzczZOrNn3o4VhrCncOQIKC0UbMv?usp=sharing
 
 
-
-This has parts
+This has 3 parts:
 
 #### 1. Xamun UI at 
 https://app.xamun.ai/walk-through-preview/663/1566
 
-#### 2. Keras image recognition (match.py)
 
-#### 3. Document Comparison (keyword.py)
+#### 2. Document Comparison (keyword.py)
+
+Google Colab: https://colab.research.google.com/drive/1xq5qCDR391kVy9d1xofs0YQzPQVuYNw4?usp=sharing
 
 Applicant 1: https://medium.com/@jojo_38618/a-personal-essay-on-my-journey-into-tech-518fcb8760d6
 
@@ -30,9 +29,13 @@ Applicant 2: https://zelig880.com/my-10-years-experience-as-a-javascript-softwar
 
 ![applicant2.png](applicant2.png)
 
+This shows that applicant 2 is way better. 
 
 
-> start time: 10am Oct 24, 2024
+
+#### 3. Keras image recognition (match.py)
+
+Google Colab: https://colab.research.google.com/drive/1X6jxnzczZOrNn3o4VhrCncOQIKC0UbMv?usp=sharing
 
 1. Import hands dataset from Kaggle and get only right hand palms  https://www.kaggle.com/datasets/shyambhu/hands-and-palm-images-dataset/code?resource=download
 
@@ -58,6 +61,8 @@ Applicant 2: https://zelig880.com/my-10-years-experience-as-a-javascript-softwar
   - criminal_palm.jpg
   - civilian_palm.jpg
 
+
+> start time: 10am Oct 24, 2024
 
 > end time: Oct 25, 2022 (x hours)
 
