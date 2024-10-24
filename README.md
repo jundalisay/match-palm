@@ -6,9 +6,7 @@
 - Michael Lituanias
 - Jose Felizco
 
-### Presentation: https://www.canva.com/design/DAGUcrWEWrs/fgHVrVhKiuM7qh1WsQyK8A/edit?utm_content=DAGUcrWEWrs&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
-
-
+### Presentation: https://www.canva.com/design/DAGUcrWEWrs/XULJvvXDj0NDhku6-fWr1w/view?utm_content=DAGUcrWEWrs&utm_campaign=designshare&utm_medium=link&utm_source=editor
 
 This has 3 parts:
 
