@@ -1,17 +1,38 @@
-## Behavioral Prediction System for the 3rd PNP ITMS Hackathon
+## Team Superphysics: Match for KMC Hackathon
 
-![Splash](bps.jpg)
+![match.jpg](match.jpg)
 
 - Juan Dalisay Jr.
-- Ehmil Cataluna
-- Francisco Palmares
+- Michael Lituanias
+- Jose Felizco
 
-### Website: https://superphysics.org/bps/
+### Presentation: https://www.canva.com/design/DAGUcrWEWrs/fgHVrVhKiuM7qh1WsQyK8A/edit?utm_content=DAGUcrWEWrs&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
 
-### Google Colab: https://colab.research.google.com/drive/1tqQXIosRe6raZaHaFjAVyP8K0BeFPCE-?usp=sharing
+### Google Colab: https://colab.research.google.com/drive/1X6jxnzczZOrNn3o4VhrCncOQIKC0UbMv?usp=sharing
 
 
-> start time: 9am Oct 18, 2022
+
+This has parts
+
+#### 1. Xamun UI at 
+https://app.xamun.ai/walk-through-preview/663/1566
+
+#### 2. Keras image recognition (match.py)
+
+#### 3. Document Comparison (keyword.py)
+
+Applicant 1: https://medium.com/@jojo_38618/a-personal-essay-on-my-journey-into-tech-518fcb8760d6
+
+![applicant1.png](applicant1.png)
+
+
+Applicant 2: https://zelig880.com/my-10-years-experience-as-a-javascript-software-engineer
+
+![applicant2.png](applicant2.png)
+
+
+
+> start time: 10am Oct 24, 2024
 
 1. Import hands dataset from Kaggle and get only right hand palms  https://www.kaggle.com/datasets/shyambhu/hands-and-palm-images-dataset/code?resource=download
 
@@ -34,12 +55,11 @@
 - train
 - visualize results
 - test on samples
-  - Hand_0005083.jpg
-  - Hand_0005116.jpg
+  - criminal_palm.jpg
+  - civilian_palm.jpg
 
 
-> end time: 12 midnight Oct 19, 2022 (15 hours)
-
+> end time: Oct 25, 2022 (x hours)
 
 
 
