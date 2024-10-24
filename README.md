@@ -31,9 +31,13 @@ Applicant 2: https://zelig880.com/my-10-years-experience-as-a-javascript-softwar
 
 This shows that applicant 2 is way better. 
 
-This is even more true when the full essays are loaded at the Streamlit app (streamlit.py):
+This is even more true when the full essays are loaded at the Streamlit app (streamlit.py) which is live at https://apppy-barzqkyiobotiw23u5dmii.streamlit.app/
+
+Applicant 1: 
 
 ![applicant1full.png](applicant1full.png)
+
+Applicant 2:
 
 ![applicant2full.png](applicant2full.png)
 
