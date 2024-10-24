@@ -31,6 +31,12 @@ Applicant 2: https://zelig880.com/my-10-years-experience-as-a-javascript-softwar
 
 This shows that applicant 2 is way better. 
 
+This is even more true when the full essays are loaded at the Streamlit app (streamlit.py):
+
+![applicant1full.png](applicant1full.png)
+
+![applicant2full.png](applicant2full.png)
+
 
 
 #### 3. Keras image recognition (match.py)
