@@ -71,6 +71,12 @@ Google Colab: https://colab.research.google.com/drive/1X6jxnzczZOrNn3o4VhrCncOQI
   - criminal_palm.jpg
   - civilian_palm.jpg
 
+3. Do the same on Streamlit
+
+Applicant's palm compared to a set of known palms:
+
+![palms.jpg](palms.jpg)
+
 
 > start time: 10am Oct 24, 2024
 
