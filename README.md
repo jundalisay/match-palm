@@ -20,6 +20,9 @@ https://app.xamun.ai/walk-through-preview/663/1566
 
 Google Colab: https://colab.research.google.com/drive/1xq5qCDR391kVy9d1xofs0YQzPQVuYNw4?usp=sharing
 
+
+Javascript Developer Duties: https://fullscale.io/blog/roles-and-responsibilities-of-a-javascript-developer/
+
 Applicant 1: https://medium.com/@jojo_38618/a-personal-essay-on-my-journey-into-tech-518fcb8760d6
 
 ![applicant1.png](applicant1.png)
@@ -71,7 +74,8 @@ Google Colab: https://colab.research.google.com/drive/1X6jxnzczZOrNn3o4VhrCncOQI
   - criminal_palm.jpg
   - civilian_palm.jpg
 
-3. Do the same on Streamlit
+
+3. Do the same on Streamlit (image.py)
 
 Applicant's palm compared to a set of known palms:
 
@@ -80,7 +84,7 @@ Applicant's palm compared to a set of known palms:
 
 > start time: 10am Oct 24, 2024
 
-> end time: Oct 25, 2022 (x hours)
+> end time: 8am Oct 25, 2022
 
 
 
@@ -88,6 +92,9 @@ Applicant's palm compared to a set of known palms:
 
 - Limited samples causes overfitting
 - Palm images too varied
+- Lines on palm are not clear
+- Xamun.ai is very difficult to use
+
 
 ### Workaround
 

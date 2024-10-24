@@ -4,3 +4,10 @@ scikit-learn
 spacy
 streamlit
 plotly
+
+opencv-python-headless
+scikit-image
+pillow
+numpy
+mediapipe 
+scipy
